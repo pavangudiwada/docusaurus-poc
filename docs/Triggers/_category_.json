@@ -1,0 +1,8 @@
+{
+    "label": "Triggers",
+    "link": {
+      "type": "generated-index",
+      "description": "When to run(on alerts, logs)"
+    }
+  }
+  

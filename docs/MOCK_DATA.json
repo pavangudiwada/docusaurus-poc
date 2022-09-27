@@ -1,0 +1,4 @@
+[{"id":1,"name":"Jabbercube","url":"http://dummyimage.com/230x100.png/cc0000/ffffff","Tags":"Grafana"},
+{"id":2,"name":"Kazu","url":"http://dummyimage.com/189x100.png/dddddd/000000","Tags":"Prometheus, Grafana"},
+{"id":3,"name":"Gigabox","url":"http://dummyimage.com/240x100.png/5fa2dd/ffffff","Tags":"Prometheus"},
+{"id":4,"name":"Bubblemix","url":"http://dummyimage.com/137x100.png/ff4444/ffffff","Tags":"OpenSource,Prometheus"}]

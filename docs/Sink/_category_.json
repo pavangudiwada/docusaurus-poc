@@ -1,0 +1,8 @@
+{
+    "label": "Sinks",
+    "link": {
+      "type": "generated-index",
+      "description": "Where to send the result"
+    }
+  }
+  
